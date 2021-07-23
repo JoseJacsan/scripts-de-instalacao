@@ -1,0 +1,22 @@
+#!/bin/bash
+
+##Instalação do pacote Snap##
+sudo apt update && sudo apt install snapd
+
+##Instalação do Telegram##
+sudo snap install telegram-desktop
+
+##Instalação do LibreOffice##
+sudo snap install libreoffice
+
+##Instalação do GIMP##
+sudo snap install gimp
+
+##Instalação do Brave Browser##
+sudo snap install brave
+
+##Instalação Audacity##
+sudo snap install audacity
+
+##Instalação Shotcut##
+sudo snap install shotcut --classic

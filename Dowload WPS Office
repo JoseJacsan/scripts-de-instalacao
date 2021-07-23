@@ -1,0 +1,4 @@
+#!/bin/bash
+
+##Download do .deb do WPS Office##
+wget -c https://github.com/aldebaranbm/wpsoffice-linux_pt-br/releases/download/10.1.0.6758/wpsoffice.deb
